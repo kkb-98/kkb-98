@@ -2,7 +2,7 @@
 ## :clipboard: PortFolio and Velog</br>
 <br>
 
-<p align="center">[KyungBin's PortFolio]<br>(https://velog.io/@k9b8in/KyungBins-PortFolio)</p>
+<p align="center">[KyungBin's PortFolio]<br>(https://kkb-98.github.io/KKB-s-Portfolio/)</p>
 <br>
 <div align="center">
 저의 개발블로그입니다 🐤
