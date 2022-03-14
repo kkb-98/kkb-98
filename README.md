@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=20C997&height=300&section=header&text=Kang%20Kyung%20Bin&fontSize=68&fontColor=ffffff)
-## :clipboard: PortFolio and Velog</br>
+<!-- ## :clipboard: PortFolio and Velog -->
+## <div align=center> :clipboard: PortFolio and Velog  </div>
+</br>
 <br>
 
 <p align="center">[KyungBin's PortFolio]<br>(https://kkb-98.github.io/KKB-s-Portfolio/)</p>
