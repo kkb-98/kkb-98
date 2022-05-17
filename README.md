@@ -4,7 +4,7 @@
 </br>
 <br>
 
-<p align="center">[KyungBin's PortFolio]<br>(https://www.notion.so/KKB-s-Portfolio-22da1185a9d1441eab8170ef27936558/)</p>
+<p align="center">[KyungBin's PortFolio]<br>(https://cool-wall-169.notion.site/KKB-s-Portfolio-22da1185a9d1441eab8170ef27936558)</p>
 <br>
 <div align="center">
 저의 개발블로그입니다 🐤
