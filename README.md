@@ -2,12 +2,17 @@
 <!-- ## :clipboard: PortFolio and Velog -->
 ## <div align=center> :clipboard: PortFolio and Velog  </div>
 </br>
-<br>
+<!-- <br> -->
 
-<p align="center">[KyungBin's PortFolio]<br>(https://cool-wall-169.notion.site/KKB-s-Portfolio-22da1185a9d1441eab8170ef27936558)</p>
+<div align="center">
+↓ 포트폴리오 바로가기 ↓
+<br>
+<a href="[https://velog.io/@k9b8in](https://cool-wall-169.notion.site/KKB-s-Portfolio-22da1185a9d1441eab8170ef27936558)"><img src="https://img.shields.io/badge/notion-F7A81B?style=flat-square&logo=notion&logoColor=white"/></a>
+<div>
+<br>
 <br>
 <div align="center">
-저의 개발블로그입니다 🐤
+🐤 저의 개발블로그입니다 🐤
 <br>
 <a href="https://velog.io/@k9b8in"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <div>
