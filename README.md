@@ -9,4 +9,4 @@
 <br>
 
 **Stack**
-*   Python, TypeScript, Node.js, Next.js
+*   Python, TypeScript, Node.js
